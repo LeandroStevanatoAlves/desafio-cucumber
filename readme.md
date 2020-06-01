@@ -2,7 +2,7 @@
 Projeto que automatiza cenários de testes para o desafio proposto. Ele foi criado com Ruby, Cucumber, e Selenium webdriver.
 
 ## Guia de instalação
-1. Faça o clone deste projeto com `git clone`
+1. Faça o clone deste projeto com `git clone https://github.com/LeandroStevanatoAlves/desafio-cucumber.git`
 2. Instale o **Ruby**, se estiver usando o Windows utilize o [RubyInstaller](https://rubyinstaller.org/downloads/), se estiver utilizando outro sistema operacional procure seguir as instruções [desta página](https://www.ruby-lang.org/pt/documentation/installation/)
 3. Instale o **Bundler** com `gem install bundler`
 4. Entre na pasta do projeto e instale as dependências com `bundle install`
